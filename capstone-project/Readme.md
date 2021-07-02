@@ -4,12 +4,8 @@
 
 ![udacity](https://miro.medium.com/max/1200/1*8chqKIGajMlaANgxyPyyXg.jpeg)
 
-#### In this project, I apply what I have learned on data engineering nanodegree course 
+#### In this project, I apply what I have learned on machine learning engineering nanodegree course 
 
-------------------------------------
-As a startup company Sparkify specialized in streaming music, CEO's see new oportunity in podcasts listening. The team want to build podcasts database to take a closer look at this topic. As a Data Engineer I was asked to create database with [RRS feed](https://en.wikipedia.org/wiki/RSS), basic information about podcasts, episodes and podcaster names.  
-
-This data helps analyst to get into podcasts topic, search the most common categories of podcasts and create raport which help engineers to implement functionality on the production to monitor users behavior.
 
 ### Project description
 
