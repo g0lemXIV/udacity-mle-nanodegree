@@ -4,7 +4,7 @@
 
 ![udacity](https://miro.medium.com/max/1200/1*8chqKIGajMlaANgxyPyyXg.jpeg)
 
-#### In this project, I apply what I have learned on machine learning engineering nanodegree course 
+#### In this project, I apply what I have learned on Machine Learning Engineer course 
 
 
 ### Project description
